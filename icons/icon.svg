@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Debt Freedom Tracker icon">
+  <rect width="512" height="512" rx="96" fill="#008b7a"/>
+  <path d="M152 176h208c17.7 0 32 14.3 32 32v128c0 17.7-14.3 32-32 32H152c-17.7 0-32-14.3-32-32V208c0-17.7 14.3-32 32-32Z" fill="#ffffff"/>
+  <path d="M164 312h56l34-74 42 48 34-30h38" fill="none" stroke="#008b7a" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M168 144h176" fill="none" stroke="#d7fff6" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="176" cy="224" r="16" fill="#ff6b5f"/>
+</svg>
