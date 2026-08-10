@@ -1,4 +1,4 @@
-const CACHE_NAME = "debt-freedom-tracker-v2";
+const CACHE_NAME = "debt-freedom-tracker-v3";
 
 // These files make up the offline app shell. They are cached after the first visit.
 const APP_SHELL = [
@@ -6,7 +6,9 @@ const APP_SHELL = [
   "./index.html",
   "./manifest.json",
   "./assets/styles.css",
+  "./assets/bootstrap.js",
   "./assets/app.js",
+  "./assets/monthly-payments.js",
   "./icons/icon.svg",
   "./favicon.ico",
   "./icons/icon-192.png",
